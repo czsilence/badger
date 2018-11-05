@@ -27,8 +27,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/dgraph-io/badger/protos"
-	"github.com/dgraph-io/badger/y"
+	"github.com/czsilence/badger/protos"
+	"github.com/czsilence/badger/y"
 	"github.com/pkg/errors"
 )
 

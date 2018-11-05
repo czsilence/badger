@@ -12,9 +12,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dgraph-io/badger"
-	"github.com/dgraph-io/badger/options"
-	"github.com/dgraph-io/badger/y"
+	"github.com/czsilence/badger"
+	"github.com/czsilence/badger/options"
+	"github.com/czsilence/badger/y"
 )
 
 var Max int64 = 10000000

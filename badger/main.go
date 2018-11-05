@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/dgraph-io/badger/badger/cmd"
+	"github.com/czsilence/badger/badger/cmd"
 )
 
 func main() {

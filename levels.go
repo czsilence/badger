@@ -26,9 +26,9 @@ import (
 
 	"golang.org/x/net/trace"
 
-	"github.com/dgraph-io/badger/protos"
-	"github.com/dgraph-io/badger/table"
-	"github.com/dgraph-io/badger/y"
+	"github.com/czsilence/badger/protos"
+	"github.com/czsilence/badger/table"
+	"github.com/czsilence/badger/y"
 	"github.com/pkg/errors"
 )
 
